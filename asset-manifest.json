@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learning-react/static/css/main.2aa3b276.css",
+    "main.js": "/learning-react/static/js/main.d5d5a4de.js",
+    "static/media/hero background.jpg": "/learning-react/static/media/hero background.b7daa7ea63b48dfbdd3c.jpg",
+    "static/media/hero_image.webp": "/learning-react/static/media/hero_image.73c15fcebef7adacfc9e.webp",
+    "static/media/nav_logo.png": "/learning-react/static/media/nav_logo.1fb27bb9d1bbdec61bc6.png",
+    "static/media/odl-logo.webp": "/learning-react/static/media/odl-logo.6aee85b8d758949814cb.webp",
+    "static/media/onlineuu-logo.webp": "/learning-react/static/media/onlineuu-logo.92e7f7a07608086539db.webp",
+    "static/media/amityt-logo.webp": "/learning-react/static/media/amityt-logo.8bccad3f8f82ef2a3479.webp",
+    "static/media/imt-cdl.webp": "/learning-react/static/media/imt-cdl.e14102b968e8569b83ff.webp",
+    "static/media/upescce.webp": "/learning-react/static/media/upescce.ece24543a95715fb2411.webp",
+    "static/media/jainonline.webp": "/learning-react/static/media/jainonline.a1b12d6e91d7802924f6.webp",
+    "static/media/upgrad-logo.webp": "/learning-react/static/media/upgrad-logo.143e7fd29d9a2155f566.webp",
+    "index.html": "/learning-react/index.html",
+    "main.2aa3b276.css.map": "/learning-react/static/css/main.2aa3b276.css.map",
+    "main.d5d5a4de.js.map": "/learning-react/static/js/main.d5d5a4de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa3b276.css",
+    "static/js/main.d5d5a4de.js"
+  ]
+}
